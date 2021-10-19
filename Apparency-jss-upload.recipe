@@ -16,7 +16,7 @@
     <key>MinimumVersion</key>
     <string>0.2.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.matins.pkg.Apparency</string>
+    <string>com.github.matinsa.pkg.Apparency</string>
     <key>Process</key>
     <array>
         <dict>
