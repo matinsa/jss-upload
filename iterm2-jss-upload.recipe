@@ -16,7 +16,7 @@
     <key>MinimumVersion</key>
     <string>0.2.0</string>
     <key>ParentRecipe</key>
-    <string>io.github.hjuutilainen.pkg.iterm2</string>
+    <string>io.github.hjuutilainen.pkg.iTerm2</string>
     <key>Process</key>
     <array>
         <dict>
